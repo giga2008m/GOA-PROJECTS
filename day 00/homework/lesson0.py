@@ -1,6 +1,6 @@
 from turtle import *
 
-
+#we want to make a house
 #we want to paint a house
 
 width(7)
